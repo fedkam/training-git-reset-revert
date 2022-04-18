@@ -3,7 +3,7 @@ import React from 'react'
 export const index = () => {
     return (
         <div>
-            feature1_v2
+            feature3_v2
         </div>
     )
 }
